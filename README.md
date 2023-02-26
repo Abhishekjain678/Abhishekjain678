@@ -7,9 +7,13 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://abhishekjain678.github.io/Abhishek-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21156764/abhishek-jain)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+As a full stack developer, my name is Abhishek and I am highly skilled in both front-end and back-end web development. With several years of experience, I have gained proficiency in various programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+
+I specialize in developing complex web applications from scratch, creating responsive and user-friendly interfaces, and implementing efficient server-side functionality. My expertise in back-end development includes building RESTful APIs, working with databases, and integrating different services into web applications.
+
+I am also proficient in using various development tools and technologies, such as Git, GitHub, VS Code, and AWS. I am a quick learner, able to adapt to new frameworks and technologies as required, and always strive to stay up-to-date with the latest trends and best practices in full stack development.
+
+Overall, I am passionate about full stack development and dedicated to continuously learning and improving my skills to deliver exceptional results as a full stack developer.
 
 
 
