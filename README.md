@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abhishek-bafna-600b581b2/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)]((https://stackoverflow.com/users/21156764/abhishek-jain))
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21156764/abhishek-jain)
 
 I'm
 Full Stack Solution Architect
