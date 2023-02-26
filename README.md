@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://abhishekjain678.github.io/Abhishek-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21156764/abhishek-jain)
 
-As a full stack developer, my name is Abhishek and I am highly skilled in both front-end and back-end web development. With several years of experience, I have gained proficiency in various programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+My name is Abhishek and I am highly skilled in both front-end and back-end web development. With several years of experience, I have gained proficiency in various programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and MongoDB.
 
 I specialize in developing complex web applications from scratch, creating responsive and user-friendly interfaces, and implementing efficient server-side functionality. My expertise in back-end development includes building RESTful APIs, working with databases, and integrating different services into web applications.
 
